@@ -1,0 +1,10 @@
+.titlefont {
+    font-family: 'Sarala', sans-serif;
+}
+
+@media only screen and (max-width: 600px) {
+    .ssd img {
+        height: 300px;
+    }
+}
+
